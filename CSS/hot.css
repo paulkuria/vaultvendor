@@ -1,0 +1,55 @@
+.hero-image
+{
+    background-image: url(../images/images\ hotel\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+}
+
+    .hero-wrapper
+    {
+  color: white;  
+  position: absolute; 
+  top: 50%;  
+  left: 13%; 
+  transform: translate(-50%-50%);
+    }
+.hero-wrapper .form
+{
+   text-align: center; 
+}
+.form
+{
+display:inline-block;
+width: 80%; 
+margin-left:auto;
+margin-right: auto;
+border: radius 20%;
+border: none;
+}
+.poduct
+{
+width: 80%;
+margin-left:auto;
+margin-right:auto;
+}
+.product-items
+{
+  float:right;
+  width: 33.33%;
+  
+}
+
+.footer
+{
+  margin-top:15%;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  
+  
+} 
+
+
+
